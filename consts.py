@@ -1,0 +1,2 @@
+T = 1000
+TIME_EMBED_DIM = 64
